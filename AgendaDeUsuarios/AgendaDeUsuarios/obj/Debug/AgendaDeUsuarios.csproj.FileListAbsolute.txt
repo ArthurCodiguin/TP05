@@ -1,0 +1,11 @@
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\AgendaDeUsuarios\AgendaDeUsuarios\bin\Debug\AgendaDeUsuarios.exe.config
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\AgendaDeUsuarios\AgendaDeUsuarios\bin\Debug\AgendaDeUsuarios.exe
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\AgendaDeUsuarios\AgendaDeUsuarios\bin\Debug\AgendaDeUsuarios.pdb
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\AgendaDeUsuarios\AgendaDeUsuarios\obj\Debug\AgendaDeUsuarios.csproj.AssemblyReference.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\AgendaDeUsuarios\AgendaDeUsuarios\obj\Debug\AgendaDeUsuarios.Form1.resources
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\AgendaDeUsuarios\AgendaDeUsuarios\obj\Debug\AgendaDeUsuarios.Properties.Resources.resources
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\AgendaDeUsuarios\AgendaDeUsuarios\obj\Debug\AgendaDeUsuarios.csproj.GenerateResource.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\AgendaDeUsuarios\AgendaDeUsuarios\obj\Debug\AgendaDeUsuarios.csproj.CoreCompileInputs.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\AgendaDeUsuarios\AgendaDeUsuarios\obj\Debug\AgendaDeUsuarios.exe
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\AgendaDeUsuarios\AgendaDeUsuarios\obj\Debug\AgendaDeUsuarios.pdb
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\AgendaDeUsuarios\AgendaDeUsuarios\obj\Debug\AgendaDeUsuarios.Form2.resources
