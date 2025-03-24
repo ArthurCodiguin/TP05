@@ -1,0 +1,10 @@
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\SistemaDeLogin\SistemaDeLogin\bin\Debug\SistemaDeLogin.exe.config
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\SistemaDeLogin\SistemaDeLogin\bin\Debug\SistemaDeLogin.exe
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\SistemaDeLogin\SistemaDeLogin\bin\Debug\SistemaDeLogin.pdb
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.csproj.AssemblyReference.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.Form1.resources
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.Properties.Resources.resources
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.csproj.GenerateResource.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.csproj.CoreCompileInputs.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.exe
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\SEXTA AULA\TP05\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.pdb
